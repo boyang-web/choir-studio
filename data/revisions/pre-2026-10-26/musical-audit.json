@@ -1,0 +1,126 @@
+{
+  "source": "Audiveris MusicXML + original notation duration repairs + music21 MIDI",
+  "symbolRepairs": [],
+  "unresolved": [],
+  "verifiedPianoRepairs": [
+    23,
+    42,
+    43,
+    39,
+    44,
+    45,
+    62,
+    63,
+    64
+  ],
+  "graces": [
+    {
+      "part": 2,
+      "measure": 19,
+      "anchor": "1/2",
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 3,
+      "measure": 19,
+      "anchor": "1/2",
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 1,
+      "measure": 21,
+      "anchor": "1/2",
+      "pitches": [
+        "G3",
+        "B-3"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 2,
+      "measure": 21,
+      "anchor": "1/2",
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 3,
+      "measure": 21,
+      "anchor": "1/2",
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 2,
+      "measure": 23,
+      "anchor": "3/4",
+      "pitches": [
+        "F4"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 3,
+      "measure": 23,
+      "anchor": "3/4",
+      "pitches": [
+        "G3"
+      ],
+      "borrowed": "1/8"
+    },
+    {
+      "part": 5,
+      "measure": 63,
+      "anchor": "3",
+      "pitches": [
+        "D5",
+        "F5"
+      ],
+      "borrowed": "1/8"
+    }
+  ],
+  "ornaments": [
+    {
+      "part": 0,
+      "measure": 43,
+      "type": "mordent"
+    },
+    {
+      "part": 4,
+      "measure": 38,
+      "type": "mordent"
+    },
+    {
+      "part": 4,
+      "measure": 42,
+      "type": "mordent"
+    },
+    {
+      "part": 4,
+      "measure": 45,
+      "type": "mordent"
+    }
+  ],
+  "tracks": {
+    "soprano": 223,
+    "alto": 220,
+    "tenor": 160,
+    "bass": 162,
+    "ocarina": 69,
+    "piano": 917
+  }
+}

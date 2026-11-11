@@ -1,0 +1,546 @@
+{
+  "source": "Audiveris MusicXML + original notation duration repairs + music21 MIDI",
+  "symbolRepairs": [
+    {
+      "part": "Soprano",
+      "measure": 9,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 27,
+      "removedLeadingRests": 1
+    },
+    {
+      "part": "Soprano",
+      "measure": 37,
+      "removedLeadingRests": 1
+    },
+    {
+      "part": "Soprano",
+      "measure": 43,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 73,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 74,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 82,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 94,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Soprano",
+      "measure": 118,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Alto",
+      "measure": 9,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Alto",
+      "measure": 62,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Alto",
+      "measure": 82,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Alto",
+      "measure": 94,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Alto",
+      "measure": 96,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Tenor",
+      "measure": 82,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Bass",
+      "measure": 80,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Bass",
+      "measure": 82,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Bass",
+      "measure": 96,
+      "removedLeadingRests": 0
+    },
+    {
+      "part": "Bass",
+      "measure": 114,
+      "removedLeadingRests": 0
+    }
+  ],
+  "unresolved": [
+    {
+      "part": "Piano",
+      "staff": 5,
+      "measure": 4,
+      "offset": "3",
+      "duration": "3/2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 5,
+      "measure": 27,
+      "offset": "5/2",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 5,
+      "measure": 29,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 5,
+      "measure": 37,
+      "offset": "1/2",
+      "duration": "4",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 5,
+      "measure": 76,
+      "offset": "5/2",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 27,
+      "offset": "5/2",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 29,
+      "offset": "4",
+      "duration": "1",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 29,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 32,
+      "offset": "3",
+      "duration": "2",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 76,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4"
+    },
+    {
+      "part": "Piano",
+      "staff": 6,
+      "measure": 96,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4"
+    }
+  ],
+  "vpBars": [
+    {
+      "measure": 51,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 52,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 53,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 54,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 55,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 56,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 57,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 58,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 59,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 60,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 61,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 62,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 63,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 64,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 65,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 66,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 67,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 68,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 69,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 70,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 71,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 72,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 73,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 74,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 75,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 76,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 77,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 78,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 79,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 80,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 81,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 82,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 83,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 84,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 85,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 86,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 87,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 88,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 89,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 90,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 91,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 92,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 93,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 94,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 95,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 96,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 97,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 98,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 99,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 100,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 101,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 102,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 103,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 104,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 105,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 106,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 107,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 108,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 109,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 110,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 111,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 112,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 113,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 114,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 115,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 116,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 117,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 118,
+      "expected": "4",
+      "total": "4"
+    },
+    {
+      "measure": 119,
+      "expected": "4",
+      "total": "4"
+    }
+  ],
+  "vpEvents": 361,
+  "tracks": {
+    "soprano": 346,
+    "alto": 428,
+    "tenor": 394,
+    "bass": 326,
+    "percussion": 361,
+    "piano": 1039
+  }
+}

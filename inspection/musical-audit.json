@@ -1,0 +1,152 @@
+{
+  "let-it-go": [
+    {
+      "part": "P1",
+      "chordMeasures": [
+        18,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "pitched": 430,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P2",
+      "chordMeasures": [
+        14,
+        25
+      ],
+      "pitched": 517,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P3",
+      "chordMeasures": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        47,
+        48
+      ],
+      "pitched": 459,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P4",
+      "chordMeasures": [
+        47,
+        68,
+        102,
+        106,
+        107,
+        111,
+        112
+      ],
+      "pitched": 398,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P5",
+      "chordMeasures": [],
+      "pitched": 0,
+      "unpitched": 150,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P6",
+      "chordMeasures": [],
+      "pitched": 1248,
+      "unpitched": 0,
+      "noteheadCross": 0
+    }
+  ],
+  "chi-le-ge": [
+    {
+      "part": "P1",
+      "chordMeasures": [
+        12,
+        13,
+        14,
+        18,
+        30,
+        46,
+        52,
+        55
+      ],
+      "pitched": 255,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P2",
+      "chordMeasures": [
+        12,
+        13,
+        14,
+        25,
+        26,
+        27,
+        30,
+        32,
+        39,
+        42,
+        43,
+        46,
+        47,
+        48,
+        52,
+        53,
+        61,
+        62,
+        63,
+        64,
+        68,
+        69
+      ],
+      "pitched": 253,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P3",
+      "chordMeasures": [],
+      "pitched": 183,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P4",
+      "chordMeasures": [],
+      "pitched": 183,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P5",
+      "chordMeasures": [],
+      "pitched": 75,
+      "unpitched": 0,
+      "noteheadCross": 0
+    },
+    {
+      "part": "P6",
+      "chordMeasures": [],
+      "pitched": 924,
+      "unpitched": 0,
+      "noteheadCross": 0
+    }
+  ]
+}

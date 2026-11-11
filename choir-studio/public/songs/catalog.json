@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chi-le-ge",
+    "title": "敕勒歌",
+    "tag": "中国合唱",
+    "tempo": 68,
+    "subtitle": "刘洲 作曲 · 吴昊 编配 / 2026-10-26 修订版",
+    "pages": 10
+  },
+  {
+    "id": "let-it-go",
+    "title": "Let It Go",
+    "tag": "音乐剧合唱",
+    "tempo": 142,
+    "subtitle": "Roger Emerson 编曲 · Pentatonix 版本 / SATB 与钢琴",
+    "pages": 19
+  },
+  {
+    "id": "mei-you-gong-chan-dang",
+    "title": "没有共产党就没有新中国",
+    "tag": "试导入 · 待校订",
+    "tempo": 78,
+    "subtitle": "PDF 识谱试导入 · 尚未人工逐音校订",
+    "pages": 6
+  },
+  {
+    "id": "ye-lai-xiang",
+    "title": "夜来香",
+    "tag": "试导入 · 待校订",
+    "tempo": 112,
+    "subtitle": "PDF 识谱试导入 · 尚未人工逐音校订",
+    "pages": 6
+  },
+  {
+    "id": "wo-ge-chang-de-li-you",
+    "title": "我歌唱的理由有很多",
+    "tag": "试导入 · 待校订",
+    "tempo": 80,
+    "subtitle": "PDF 识谱试导入 · 尚未人工逐音校订",
+    "pages": 12
+  },
+  {
+    "id": "gao-bie-shi-ke",
+    "title": "告别时刻",
+    "tag": "试导入 · 待校订",
+    "tempo": 74,
+    "subtitle": "PDF 识谱试导入 · 尚未人工逐音校订",
+    "pages": 9
+  }
+]

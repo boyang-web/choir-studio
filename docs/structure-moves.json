@@ -1,0 +1,87 @@
+[
+    {
+        "Source":  "choir-studio-v1.0.zip",
+        "Destination":  "archive/releases/choir-studio-v1.0.zip",
+        "Length":  22324776
+    },
+    {
+        "Source":  "choir-studio-v1.1.zip",
+        "Destination":  "archive/releases/choir-studio-v1.1.zip",
+        "Length":  32267695
+    },
+    {
+        "Source":  "choir-studio-v1.2.zip",
+        "Destination":  "archive/releases/choir-studio-v1.2.zip",
+        "Length":  32142060
+    },
+    {
+        "Source":  "choir-studio-v1.3.zip",
+        "Destination":  "archive/releases/choir-studio-v1.3.zip",
+        "Length":  32031424
+    },
+    {
+        "Source":  "choir-studio-v1.4.zip",
+        "Destination":  "archive/releases/choir-studio-v1.4.zip",
+        "Length":  45276239
+    },
+    {
+        "Source":  "choir-studio-v1.5.1.zip",
+        "Destination":  "archive/releases/choir-studio-v1.5.1.zip",
+        "Length":  110877076
+    },
+    {
+        "Source":  "choir-studio-v1.5.2.zip",
+        "Destination":  "archive/releases/choir-studio-v1.5.2.zip",
+        "Length":  110878432
+    },
+    {
+        "Source":  "choir-studio-v1.5.zip",
+        "Destination":  "archive/releases/choir-studio-v1.5.zip",
+        "Length":  110864287
+    },
+    {
+        "Source":  "choir-studio-v1.7.0.zip",
+        "Destination":  "archive/releases/choir-studio-v1.7.0.zip",
+        "Length":  110961794
+    },
+    {
+        "Source":  "和声练习室.exe",
+        "Destination":  "releases/和声练习室.exe",
+        "Length":  29381120
+    },
+    {
+        "Source":  "和声练习室.apk",
+        "Destination":  "releases/和声练习室.apk",
+        "Length":  36105629
+    },
+    {
+        "Source":  "4.敕勒歌.pdf",
+        "Destination":  "data/sources/4.敕勒歌.pdf",
+        "Length":  284829
+    },
+    {
+        "Source":  "Let It Go.pdf",
+        "Destination":  "data/sources/Let It Go.pdf",
+        "Length":  1214370
+    },
+    {
+        "Source":  "Let It Go.mid",
+        "Destination":  "data/sources/Let It Go.mid",
+        "Length":  26674
+    },
+    {
+        "Source":  "敕勒歌.mid",
+        "Destination":  "data/sources/敕勒歌.mid",
+        "Length":  16818
+    },
+    {
+        "Source":  "手机局域网更新说明.md",
+        "Destination":  "docs/手机局域网更新说明.md",
+        "Length":  3922
+    },
+    {
+        "Source":  "界面参考",
+        "Destination":  "docs/design",
+        "Length":  null
+    }
+]

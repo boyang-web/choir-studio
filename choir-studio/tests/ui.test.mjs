@@ -1,0 +1,47 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {JSDOM} from 'jsdom';
+import {fakeTone} from './fake-tone.mjs';
+import vm from 'node:vm';
+test('application integration: library, voice mixing, loop, playback, seek, speed and original pages',async()=>{
+ const html=await readFile(new URL('../public/index.html',import.meta.url),'utf8');
+ const dom=new JSDOM(html,{url:'http://localhost:5173/'});
+ globalThis.window=dom.window;globalThis.document=dom.window.document;globalThis.localStorage=dom.window.localStorage;
+ globalThis.Tone=fakeTone();globalThis.requestAnimationFrame=()=>0;
+ const midiScope={};vm.runInNewContext(await readFile(new URL('../public/vendor/midi.js',import.meta.url),'utf8'),midiScope);globalThis.Midi=midiScope.Midi;
+ dom.window.HTMLElement.prototype.scrollTo=function(options){this.scrollTop=options.top||0;};
+ globalThis.fetch=async path=>{try{const bytes=await readFile(new URL('../public/'+path,import.meta.url));return{ok:true,json:async()=>JSON.parse(bytes.toString('utf8')),arrayBuffer:async()=>bytes};}catch{return{ok:false};}};
+ await import('../public/app.js');
+ const $=id=>document.getElementById(id);
+ const waitFor=async check=>{for(let i=0;i<100;i++){if(check())return;await new Promise(r=>setTimeout(r,10));}throw new Error('UI condition timed out');};
+ await waitFor(()=>$('song-title').textContent==='敕勒歌'&&!$('play').disabled);
+ assert.equal(document.querySelectorAll('.voice-row').length,6);assert.equal(document.querySelectorAll('[data-measure]').length,69);
+ $('loop-start').value=3;$('loop-end').value=5;$('loop-enabled').checked=true;$('loop-enabled').dispatchEvent(new dom.window.Event('change'));
+ $('play').click();await waitFor(()=>Tone._transport.state==='started');assert.equal(Tone._transport.loop,true);
+ document.querySelector('[data-solo="soprano"]').click();assert.equal($('player-voices').textContent,'女高音 · 独听');assert.equal(document.querySelectorAll('.voice-toggle:checked').length,1);
+ $('all-voices').click();assert.equal(document.querySelectorAll('.voice-toggle:checked').length,6);
+ $('no-voices').click();assert.equal(document.querySelectorAll('.voice-toggle:checked').length,0);
+ $('speed').value='.5';$('speed').value='0.5';$('speed').dispatchEvent(new dom.window.Event('change'));assert.equal(Tone._transport.bpm.value,60);
+ $('play').click();assert.equal(Tone._transport.state,'paused');
+ assert.equal(document.querySelectorAll('.page-wrapper').length,10);assert.equal(document.querySelectorAll('[data-measure]').length,69);
+ $('zoom-in').click();assert.equal($('zoom-label').textContent,'125%');
+ document.querySelector('[data-song="let-it-go"]').click();await waitFor(()=>$('song-title').textContent==='Let It Go');
+ assert.equal(document.querySelectorAll('[data-measure]').length,119);assert.ok(document.querySelector('[data-part="percussion"]'));
+ document.querySelector('[data-parent="bass"][data-branch-solo="1"]').click();assert.equal(document.querySelector('[data-parent="bass"][data-branch="1"]').checked,true);assert.equal(document.querySelector('[data-parent="bass"][data-branch="2"]').checked,false);
+ $('all-voices').click();document.querySelector('[data-toggle="piano"]').click();assert.equal(document.querySelector('[data-toggle="piano"]').checked,false);assert.equal(document.querySelector('[data-toggle="percussion"]').checked,true);assert.equal(document.querySelectorAll('.voice-toggle:checked').length,5);
+ assert.equal(document.querySelectorAll('.reading-row').length,0);assert.equal(document.querySelectorAll('.page-wrapper').length,19);
+ $('zoom-out').click();assert.equal($('zoom-label').textContent,'100%');$('zoom-out').click();assert.equal($('zoom-label').textContent,'75%');$('fit-score').click();assert.equal($('zoom-label').textContent,'100%');
+ $('next').click();assert.ok($('measure-status').textContent.includes('第 2 / 119'));
+ $('menu').click();assert.ok($('sidebar').classList.contains('open'));$('shade').click();assert.ok(!$('sidebar').classList.contains('open'));
+ $('mixer-toggle').click();assert.ok($('mixer').classList.contains('open'));$('mixer-close').click();assert.ok(!$('mixer').classList.contains('open'));
+ for(const [id,title,parts,pages] of [['ye-lai-xiang','夜来香',4,6],['gao-bie-shi-ke','告别时刻',5,9]]){
+  document.querySelector(`[data-song="${id}"]`).click();await waitFor(()=>$('song-title').textContent===title&&!$('play').disabled);
+  assert.equal(document.querySelectorAll('.voice-row').length,parts);assert.equal(document.querySelectorAll('.page-wrapper').length,pages);
+  assert.equal(document.querySelector('[data-part="alto"] .voice-name').textContent,'女中音');
+  assert.equal($('album-mini').textContent,title.slice(0,1));
+  document.querySelector('[data-solo="alto"]').click();assert.equal($('player-voices').textContent,'女中音 · 独听');
+  $('play').click();await waitFor(()=>Tone._transport.state==='started');$('play').click();
+ }
+ dom.window.dispatchEvent(new dom.window.Event('pagehide'));dom.window.close();
+});

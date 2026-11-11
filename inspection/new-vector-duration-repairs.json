@@ -1,0 +1,222 @@
+[
+  {
+    "part": 0,
+    "measure": 29,
+    "kind": "grace",
+    "pitch": "<music21.note.Note A>",
+    "oldDuration": "1"
+  },
+  {
+    "part": 0,
+    "measure": 29,
+    "kind": "grace",
+    "pitch": "<music21.note.Note C>",
+    "oldDuration": "1"
+  },
+  {
+    "part": 0,
+    "measure": 45,
+    "kind": "grace",
+    "pitch": "<music21.note.Note A>",
+    "oldDuration": "1"
+  },
+  {
+    "part": 0,
+    "measure": 45,
+    "kind": "grace",
+    "pitch": "<music21.note.Note C>",
+    "oldDuration": "1"
+  },
+  {
+    "part": 1,
+    "measure": 43,
+    "kind": "duration",
+    "old": "1",
+    "new": "3/2",
+    "x": 211.02,
+    "symbol": "0xe0a4"
+  },
+  {
+    "part": 5,
+    "measure": 24,
+    "kind": "duration",
+    "old": "1/2",
+    "new": "3/4",
+    "x": 505.37,
+    "symbol": "0xe0a4"
+  },
+  {
+    "part": 5,
+    "measure": 42,
+    "kind": "duration",
+    "old": "1/4",
+    "new": "1/8",
+    "x": 426.8,
+    "symbol": "0xe0a4"
+  },
+  {
+    "part": 0,
+    "measure": 29,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 0,
+    "measure": 45,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 0,
+    "measure": 67,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 1,
+    "measure": 21,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 2,
+    "measure": 29,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 2,
+    "measure": 45,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 2,
+    "measure": 55,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 3,
+    "measure": 26,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 3,
+    "measure": 29,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 3,
+    "measure": 55,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 3,
+    "measure": 67,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 3,
+    "measure": 68,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 4,
+    "measure": 64,
+    "kind": "complete printed voice"
+  },
+  {
+    "part": 5,
+    "measure": 4,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 28,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 28,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 39,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 42,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 42,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 43,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 43,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 44,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 44,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 45,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 45,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 61,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 61,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 62,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 62,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 63,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 63,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 5,
+    "measure": 64,
+    "kind": "verified printed piano voices"
+  },
+  {
+    "part": 6,
+    "measure": 64,
+    "kind": "verified printed piano voices"
+  }
+]

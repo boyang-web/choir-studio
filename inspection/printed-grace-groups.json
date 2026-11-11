@@ -1,0 +1,491 @@
+[
+  {
+    "page": 2,
+    "part": 0,
+    "measure": 15,
+    "pitches": [
+      "F4"
+    ],
+    "x": [
+      226.21
+    ],
+    "main": "D4",
+    "mainX": 232.0
+  },
+  {
+    "page": 2,
+    "part": 0,
+    "measure": 17,
+    "pitches": [
+      "F4"
+    ],
+    "x": [
+      444.54
+    ],
+    "main": "D4",
+    "mainX": 450.32
+  },
+  {
+    "page": 2,
+    "part": 0,
+    "measure": 13,
+    "pitches": [
+      "A4",
+      "C5"
+    ],
+    "x": [
+      440.32,
+      445.47
+    ],
+    "main": "A4",
+    "mainX": 451.25
+  },
+  {
+    "page": 2,
+    "part": 1,
+    "measure": 17,
+    "pitches": [
+      "F4"
+    ],
+    "x": [
+      444.54
+    ],
+    "main": "D4",
+    "mainX": 450.32
+  },
+  {
+    "page": 3,
+    "part": 1,
+    "measure": 21,
+    "pitches": [
+      "A3",
+      "C4"
+    ],
+    "x": [
+      100.66,
+      107.24
+    ],
+    "main": "A3",
+    "mainX": 114.39
+  },
+  {
+    "page": 3,
+    "part": 2,
+    "measure": 21,
+    "pitches": [
+      "A3",
+      "C4"
+    ],
+    "x": [
+      103.47,
+      108.61
+    ],
+    "main": "A3",
+    "mainX": 114.39
+  },
+  {
+    "page": 3,
+    "part": 2,
+    "measure": 23,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      343.31
+    ],
+    "main": "D3",
+    "mainX": 349.9
+  },
+  {
+    "page": 3,
+    "part": 2,
+    "measure": 19,
+    "pitches": [
+      "A3",
+      "C4"
+    ],
+    "x": [
+      255.98,
+      261.13
+    ],
+    "main": "A3",
+    "mainX": 266.91
+  },
+  {
+    "page": 3,
+    "part": 3,
+    "measure": 21,
+    "pitches": [
+      "A3",
+      "C4"
+    ],
+    "x": [
+      101.56,
+      107.45
+    ],
+    "main": "A3",
+    "mainX": 114.39
+  },
+  {
+    "page": 3,
+    "part": 3,
+    "measure": 23,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      342.96
+    ],
+    "main": "D3",
+    "mainX": 349.9
+  },
+  {
+    "page": 3,
+    "part": 3,
+    "measure": 19,
+    "pitches": [
+      "A3",
+      "C4"
+    ],
+    "x": [
+      254.07,
+      259.97
+    ],
+    "main": "A3",
+    "mainX": 266.91
+  },
+  {
+    "page": 4,
+    "part": 0,
+    "measure": 29,
+    "pitches": [
+      "A4",
+      "C5"
+    ],
+    "x": [
+      89.79,
+      94.93
+    ],
+    "main": "A4",
+    "mainX": 100.72
+  },
+  {
+    "page": 4,
+    "part": 0,
+    "measure": 29,
+    "pitches": [
+      "C5"
+    ],
+    "x": [
+      187.61
+    ],
+    "main": "D5",
+    "mainX": 195.89
+  },
+  {
+    "page": 4,
+    "part": 0,
+    "measure": 25,
+    "pitches": [
+      "C5"
+    ],
+    "x": [
+      182.35
+    ],
+    "main": "D5",
+    "mainX": 190.62
+  },
+  {
+    "page": 4,
+    "part": 2,
+    "measure": 25,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      105.32
+    ],
+    "main": "D3",
+    "mainX": 111.11
+  },
+  {
+    "page": 4,
+    "part": 2,
+    "measure": 29,
+    "pitches": [
+      "C4",
+      "D4"
+    ],
+    "x": [
+      88.63,
+      93.78
+    ],
+    "main": "C4",
+    "mainX": 100.72
+  },
+  {
+    "page": 4,
+    "part": 3,
+    "measure": 25,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      104.17
+    ],
+    "main": "D3",
+    "mainX": 111.11
+  },
+  {
+    "page": 5,
+    "part": 4,
+    "measure": 37,
+    "pitches": [
+      "A5",
+      "C6"
+    ],
+    "x": [
+      100.66,
+      107.24
+    ],
+    "main": "A5",
+    "mainX": 112.27
+  },
+  {
+    "page": 5,
+    "part": 4,
+    "measure": 34,
+    "pitches": [
+      "C6"
+    ],
+    "x": [
+      271.29
+    ],
+    "main": "A5",
+    "mainX": 278.45
+  },
+  {
+    "page": 5,
+    "part": 4,
+    "measure": 35,
+    "pitches": [
+      "A4",
+      "C5"
+    ],
+    "x": [
+      332.6,
+      337.75
+    ],
+    "main": "A4",
+    "mainX": 343.53
+  },
+  {
+    "page": 6,
+    "part": 0,
+    "measure": 41,
+    "pitches": [
+      "C5"
+    ],
+    "x": [
+      321.28
+    ],
+    "main": "D5",
+    "mainX": 329.56
+  },
+  {
+    "page": 6,
+    "part": 4,
+    "measure": 40,
+    "pitches": [
+      "C6"
+    ],
+    "x": [
+      157.16
+    ],
+    "main": "A5",
+    "mainX": 164.32
+  },
+  {
+    "page": 7,
+    "part": 0,
+    "measure": 45,
+    "pitches": [
+      "A4",
+      "C5"
+    ],
+    "x": [
+      89.79,
+      94.93
+    ],
+    "main": "A4",
+    "mainX": 100.72
+  },
+  {
+    "page": 7,
+    "part": 0,
+    "measure": 45,
+    "pitches": [
+      "C5"
+    ],
+    "x": [
+      242.5
+    ],
+    "main": "D5",
+    "mainX": 251.46
+  },
+  {
+    "page": 7,
+    "part": 2,
+    "measure": 45,
+    "pitches": [
+      "C4",
+      "D4"
+    ],
+    "x": [
+      88.63,
+      93.78
+    ],
+    "main": "C4",
+    "mainX": 100.72
+  },
+  {
+    "page": 7,
+    "part": 4,
+    "measure": 45,
+    "pitches": [
+      "C6"
+    ],
+    "x": [
+      159.69
+    ],
+    "main": "A5",
+    "mainX": 166.85
+  },
+  {
+    "page": 8,
+    "part": 0,
+    "measure": 53,
+    "pitches": [
+      "A4",
+      "C5"
+    ],
+    "x": [
+      100.32,
+      105.47
+    ],
+    "main": "A4",
+    "mainX": 111.25
+  },
+  {
+    "page": 8,
+    "part": 2,
+    "measure": 55,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      405.39
+    ],
+    "main": "D3",
+    "mainX": 411.17
+  },
+  {
+    "page": 8,
+    "part": 3,
+    "measure": 55,
+    "pitches": [
+      "F3"
+    ],
+    "x": [
+      404.23
+    ],
+    "main": "D3",
+    "mainX": 411.17
+  },
+  {
+    "page": 9,
+    "part": 0,
+    "measure": 62,
+    "pitches": [
+      "D5",
+      "F5"
+    ],
+    "x": [
+      469.58,
+      474.73
+    ],
+    "main": "D5",
+    "mainX": 480.51
+  },
+  {
+    "page": 9,
+    "part": 0,
+    "measure": 65,
+    "pitches": [
+      "D4",
+      "F4"
+    ],
+    "x": [
+      422.06,
+      427.21
+    ],
+    "main": "D4",
+    "mainX": 432.99
+  },
+  {
+    "page": 9,
+    "part": 4,
+    "measure": 63,
+    "pitches": [
+      "D5",
+      "F5"
+    ],
+    "x": [
+      210.27,
+      215.41
+    ],
+    "main": "D5",
+    "mainX": 222.35
+  },
+  {
+    "page": 9,
+    "part": 4,
+    "measure": 64,
+    "pitches": [
+      "D5"
+    ],
+    "x": [
+      256.38
+    ],
+    "main": "A5",
+    "mainX": 265.7
+  },
+  {
+    "page": 9,
+    "part": 5,
+    "measure": 63,
+    "pitches": [
+      "D5",
+      "F5"
+    ],
+    "x": [
+      211.42,
+      216.57
+    ],
+    "main": "D5",
+    "mainX": 222.35
+  },
+  {
+    "page": 9,
+    "part": 5,
+    "measure": 64,
+    "pitches": [
+      "D5"
+    ],
+    "x": [
+      256.38
+    ],
+    "main": "A5",
+    "mainX": 265.7
+  }
+]

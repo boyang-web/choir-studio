@@ -1,0 +1,10 @@
+{
+  "appId": "cn.hesheng.choirstudio",
+  "appName": "和声练习室",
+  "webDir": "public",
+  "android": {
+    "allowMixedContent": false,
+    "adjustMarginsForEdgeToEdge": "auto",
+    "backgroundColor": "#10151e"
+  }
+}

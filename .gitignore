@@ -1,0 +1,67 @@
+# Dependencies, caches and build output
+node_modules/
+.npm-cache/
+.tmp/
+tmp/
+test-results/
+playwright-report/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.gradle/
+build/
+bin/
+obj/
+dist/
+coverage/
+*.log
+*.tmp
+*.bak
+
+# Machine configuration and signing material
+.env
+.env.*
+!.env.example
+!.env.*.example
+.update-keys/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+local.properties
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Distribute installers through GitHub Releases instead of Git history
+*.exe
+*.apk
+*.aab
+*.msi
+*.cab
+*.zip
+/archive/
+/releases/*
+!/releases/README.md
+
+# Track tools' source and inputs; keep downloaded SDKs and local QA state local
+/tools/*
+!/tools/*.py
+!/tools/new-scores.json
+!/tools/requirements.txt
+!/tools/README.md
+
+# Generated previews, copied web assets and local update signatures
+/choir-studio/public/designs/
+/choir-studio/android/app/src/main/assets/update-builtin.json
+/choir-studio/android/app/src/main/assets/update-builtin-envelope.json
+
+# Extracted diagnostic copies; keep audit scripts and reports
+/inspection/LogicalPart.java
+/inspection/PartwiseBuilder.java
+/inspection/sheet1.xml

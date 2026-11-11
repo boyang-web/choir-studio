@@ -1,0 +1,106 @@
+{
+  "id": "wo-ge-chang-de-li-you",
+  "title": "我歌唱的理由有很多",
+  "pages": 12,
+  "measures": 113,
+  "duration": 339.0,
+  "tracks": {
+    "soprano": 241,
+    "alto": 232,
+    "tenor": 233,
+    "bass": 229,
+    "piano": 1216
+  },
+  "warnings": [
+    {
+      "part": "piano",
+      "measure": 20,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 63,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 63,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 63,
+      "offset": "4",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 65,
+      "offset": "4",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 67,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 67,
+      "offset": "4",
+      "duration": "2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 67,
+      "offset": "4",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "measure": 20,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 63,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/2"
+    },
+    {
+      "measure": 65,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/4"
+    },
+    {
+      "measure": 67,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/2"
+    }
+  ],
+  "tempoEstimated": true,
+  "limitations": [
+    "Repeats are played in printed order; repeat jumps are not expanded.",
+    "Unresolved recognition errors are retained in the audit; source PDF is unchanged."
+  ],
+  "status": "trial-imported"
+}

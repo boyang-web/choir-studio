@@ -1,0 +1,149 @@
+{
+  "male": {
+    "type": "looped-choir",
+    "samples": {
+      "G2": {
+        "file": "male-g2.wav",
+        "duration": 8.654399092970522,
+        "loopStart": 2.3073242630385487,
+        "loopEnd": 7.021700680272109
+      },
+      "C4": {
+        "file": "male-c4.wav",
+        "duration": 8.844126984126984,
+        "loopStart": 2.6349433106575963,
+        "loopEnd": 6.867891156462585
+      },
+      "G3": {
+        "file": "male-g3.wav",
+        "duration": 8.8921768707483,
+        "loopStart": 3.89031746031746,
+        "loopEnd": 7.181678004535147
+      },
+      "E4": {
+        "file": "male-e4.wav",
+        "duration": 8.879795918367346,
+        "loopStart": 2.9770521541950115,
+        "loopEnd": 7.638548752834467
+      },
+      "F4": {
+        "file": "male-f4.wav",
+        "duration": 8.847074829931973,
+        "loopStart": 3.4939002267573698,
+        "loopEnd": 6.6531746031746035
+      },
+      "C3": {
+        "file": "male-c3.wav",
+        "duration": 8.77249433106576,
+        "loopStart": 3.084172335600907,
+        "loopEnd": 7.043673469387755
+      },
+      "E3": {
+        "file": "male-e3.wav",
+        "duration": 8.873015873015873,
+        "loopStart": 2.6630839002267575,
+        "loopEnd": 7.588321995464852
+      }
+    }
+  },
+  "female": {
+    "type": "looped-choir",
+    "samples": {
+      "G4": {
+        "file": "female-g4.wav",
+        "duration": 8.817891156462585,
+        "loopStart": 2.3437414965986396,
+        "loopEnd": 6.4950566893424035
+      },
+      "C5": {
+        "file": "female-c5.wav",
+        "duration": 8.802857142857142,
+        "loopStart": 1.7168934240362812,
+        "loopEnd": 7.797074829931973
+      },
+      "G5": {
+        "file": "female-g5.wav",
+        "duration": 8.844716553287983,
+        "loopStart": 2.8936054421768707,
+        "loopEnd": 6.547120181405896
+      },
+      "E5": {
+        "file": "female-e5.wav",
+        "duration": 8.79018140589569,
+        "loopStart": 2.4227210884353743,
+        "loopEnd": 6.964693877551021
+      },
+      "C6": {
+        "file": "female-c6.wav",
+        "duration": 8.796371882086168,
+        "loopStart": 2.209750566893424,
+        "loopEnd": 6.2518820861678
+      }
+    }
+  },
+  "piano": {
+    "type": "piano",
+    "samples": {
+      "C2": {
+        "file": "piano-C2.mp3"
+      },
+      "D#2": {
+        "file": "piano-Ds2.mp3"
+      },
+      "F#2": {
+        "file": "piano-Fs2.mp3"
+      },
+      "A2": {
+        "file": "piano-A2.mp3"
+      },
+      "C3": {
+        "file": "piano-C3.mp3"
+      },
+      "D#3": {
+        "file": "piano-Ds3.mp3"
+      },
+      "A3": {
+        "file": "piano-A3.mp3"
+      },
+      "F#3": {
+        "file": "piano-Fs3.mp3"
+      },
+      "D#4": {
+        "file": "piano-Ds4.mp3"
+      },
+      "F#4": {
+        "file": "piano-Fs4.mp3"
+      },
+      "C4": {
+        "file": "piano-C4.mp3"
+      },
+      "A4": {
+        "file": "piano-A4.mp3"
+      },
+      "D#5": {
+        "file": "piano-Ds5.mp3"
+      },
+      "F#5": {
+        "file": "piano-Fs5.mp3"
+      },
+      "C5": {
+        "file": "piano-C5.mp3"
+      },
+      "A5": {
+        "file": "piano-A5.mp3"
+      },
+      "C6": {
+        "file": "piano-C6.mp3"
+      },
+      "D#6": {
+        "file": "piano-Ds6.mp3"
+      },
+      "F#6": {
+        "file": "piano-Fs6.mp3"
+      },
+      "A6": {
+        "file": "piano-A6.mp3"
+      }
+    }
+  }
+}

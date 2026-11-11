@@ -1,0 +1,235 @@
+{
+  "id": "ye-lai-xiang",
+  "title": "夜来香",
+  "pages": 6,
+  "measures": 68,
+  "duration": 145.714208,
+  "tracks": {
+    "soprano": 247,
+    "alto": 319,
+    "tenor": 294,
+    "bass": 205
+  },
+  "warnings": [
+    {
+      "part": "soprano",
+      "measure": 8,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 10,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 12,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 19,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 21,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 26,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 28,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 30,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 32,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 34,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 39,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 41,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 50,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 53,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 55,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 60,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 62,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 64,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 66,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 67,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 1,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 8,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 10,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 12,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 17,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 43,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 44,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 45,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 50,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 53,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 55,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 67,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 8,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 11,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 17,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 50,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 53,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 55,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 67,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 62,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 66,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 67,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "measure": 67,
+      "reason": "OMR recognized no duration in a printed bar; manual review required"
+    }
+  ],
+  "tempoEstimated": false,
+  "limitations": [
+    "Repeats are played in printed order; repeat jumps are not expanded.",
+    "Unresolved recognition errors are retained in the audit; source PDF is unchanged."
+  ],
+  "status": "trial-imported"
+}

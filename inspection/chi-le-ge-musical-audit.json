@@ -1,0 +1,873 @@
+{
+  "source": "Audiveris MusicXML + original notation duration repairs + music21 MIDI",
+  "symbolRepairs": [],
+  "unresolved": [],
+  "graceGroups": [
+    {
+      "part": 0,
+      "measure": 15,
+      "page": 2,
+      "pitches": [
+        "F4"
+      ],
+      "main": "D4",
+      "anchor": "1",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 0,
+      "measure": 17,
+      "page": 2,
+      "pitches": [
+        "F4"
+      ],
+      "main": "D4",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 0,
+      "measure": 13,
+      "page": 2,
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "main": "A4",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 1,
+      "measure": 17,
+      "page": 2,
+      "pitches": [
+        "F4"
+      ],
+      "main": "D4",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 1,
+      "measure": 21,
+      "page": 3,
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "main": "A3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 2,
+      "measure": 21,
+      "page": 3,
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "main": "A3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 2
+    },
+    {
+      "part": 2,
+      "measure": 23,
+      "page": 3,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "3/4",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 2,
+      "measure": 19,
+      "page": 3,
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "main": "A3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 2
+    },
+    {
+      "part": 3,
+      "measure": 21,
+      "page": 3,
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "main": "A3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 3,
+      "measure": 23,
+      "page": 3,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "3/4",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 3,
+      "measure": 19,
+      "page": 3,
+      "pitches": [
+        "A3",
+        "C4"
+      ],
+      "main": "A3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 0,
+      "measure": 29,
+      "page": 4,
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "main": "A4",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 0,
+      "measure": 29,
+      "page": 4,
+      "pitches": [
+        "C5"
+      ],
+      "main": "D5",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 0,
+      "measure": 25,
+      "page": 4,
+      "pitches": [
+        "C5"
+      ],
+      "main": "D5",
+      "anchor": "7/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 2,
+      "measure": 25,
+      "page": 4,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 2,
+      "measure": 29,
+      "page": 4,
+      "pitches": [
+        "C4",
+        "D4"
+      ],
+      "main": "C4",
+      "anchor": "0",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 3,
+      "measure": 25,
+      "page": 4,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 4,
+      "measure": 37,
+      "page": 5,
+      "pitches": [
+        "A5",
+        "C6"
+      ],
+      "main": "A5",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 4,
+      "measure": 34,
+      "page": 5,
+      "pitches": [
+        "C6"
+      ],
+      "main": "A5",
+      "anchor": "5/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 4,
+      "measure": 35,
+      "page": 5,
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "main": "A4",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 2
+    },
+    {
+      "part": 0,
+      "measure": 41,
+      "page": 6,
+      "pitches": [
+        "C5"
+      ],
+      "main": "D5",
+      "anchor": "7/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 4,
+      "measure": 40,
+      "page": 6,
+      "pitches": [
+        "C6"
+      ],
+      "main": "A5",
+      "anchor": "5/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 0,
+      "measure": 45,
+      "page": 7,
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "main": "A4",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 0,
+      "measure": 45,
+      "page": 7,
+      "pitches": [
+        "C5"
+      ],
+      "main": "D5",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 2,
+      "measure": 45,
+      "page": 7,
+      "pitches": [
+        "C4",
+        "D4"
+      ],
+      "main": "C4",
+      "anchor": "0",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 4,
+      "measure": 45,
+      "page": 7,
+      "pitches": [
+        "C6"
+      ],
+      "main": "A5",
+      "anchor": "3/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 0,
+      "measure": 53,
+      "page": 8,
+      "pitches": [
+        "A4",
+        "C5"
+      ],
+      "main": "A4",
+      "anchor": "1/2",
+      "borrow": "1/8",
+      "removedOmrHeads": 2
+    },
+    {
+      "part": 2,
+      "measure": 55,
+      "page": 8,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "3",
+      "borrow": "1/8",
+      "removedOmrHeads": 1
+    },
+    {
+      "part": 3,
+      "measure": 55,
+      "page": 8,
+      "pitches": [
+        "F3"
+      ],
+      "main": "D3",
+      "anchor": "3",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 0,
+      "measure": 62,
+      "page": 9,
+      "pitches": [
+        "D5",
+        "F5"
+      ],
+      "main": "D5",
+      "anchor": "2",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 0,
+      "measure": 65,
+      "page": 9,
+      "pitches": [
+        "D4",
+        "F4"
+      ],
+      "main": "D4",
+      "anchor": "0",
+      "borrow": "1/8",
+      "removedOmrHeads": 2
+    },
+    {
+      "part": 4,
+      "measure": 63,
+      "page": 9,
+      "pitches": [
+        "D5",
+        "F5"
+      ],
+      "main": "D5",
+      "anchor": "3",
+      "borrow": "1/8",
+      "removedOmrHeads": 0
+    },
+    {
+      "part": 4,
+      "measure": 64,
+      "page": 9,
+      "pitches": [
+        "D5"
+      ],
+      "main": "A5",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 5,
+      "measure": 63,
+      "page": 9,
+      "pitches": [
+        "D5",
+        "F5"
+      ],
+      "main": "D5",
+      "mode": "complete-voice-rebuild"
+    },
+    {
+      "part": 5,
+      "measure": 64,
+      "page": 9,
+      "pitches": [
+        "D5"
+      ],
+      "main": "A5",
+      "mode": "complete-voice-rebuild"
+    }
+  ],
+  "performedGraceNotes": 52,
+  "ornaments": [
+    {
+      "part": 0,
+      "measure": 9,
+      "page": 1,
+      "type": "upper-mordent",
+      "pitch": "F4",
+      "offset": "0",
+      "duration": "1/2",
+      "midi": [
+        65,
+        67,
+        65
+      ]
+    },
+    {
+      "part": 1,
+      "measure": 9,
+      "page": 1,
+      "type": "upper-mordent",
+      "pitch": "F4",
+      "offset": "0",
+      "duration": "1/2",
+      "midi": [
+        65,
+        67,
+        65
+      ]
+    },
+    {
+      "part": 1,
+      "measure": 11,
+      "page": 2,
+      "type": "upper-mordent",
+      "pitch": "C4",
+      "offset": "0",
+      "duration": "1/2",
+      "midi": [
+        60,
+        62,
+        60
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 30,
+      "page": 4,
+      "type": "upper-mordent",
+      "pitch": "F5",
+      "offset": "2",
+      "duration": "2",
+      "midi": [
+        77,
+        79,
+        77
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 27,
+      "page": 4,
+      "type": "upper-mordent",
+      "pitch": "C5",
+      "offset": "1",
+      "duration": "1",
+      "midi": [
+        72,
+        74,
+        72
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 32,
+      "page": 4,
+      "type": "upper-mordent",
+      "pitch": "G4",
+      "offset": "2",
+      "duration": "3/2",
+      "midi": [
+        67,
+        69,
+        67
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 33,
+      "page": 5,
+      "type": "upper-mordent",
+      "pitch": "F4",
+      "offset": "0",
+      "duration": "3/4",
+      "midi": [
+        65,
+        67,
+        65
+      ]
+    },
+    {
+      "part": 4,
+      "measure": 38,
+      "page": 5,
+      "type": "upper-mordent",
+      "pitch": "D6",
+      "offset": "2",
+      "duration": "2",
+      "midi": [
+        86,
+        88,
+        86
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 43,
+      "page": 6,
+      "type": "upper-mordent",
+      "pitch": "C5",
+      "offset": "1",
+      "duration": "1",
+      "midi": [
+        72,
+        74,
+        72
+      ]
+    },
+    {
+      "part": 4,
+      "measure": 42,
+      "page": 6,
+      "type": "upper-mordent",
+      "pitch": "D6",
+      "offset": "2",
+      "duration": "2",
+      "midi": [
+        86,
+        88,
+        86
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 49,
+      "page": 7,
+      "type": "upper-mordent",
+      "pitch": "F4",
+      "offset": "0",
+      "duration": "3/4",
+      "midi": [
+        65,
+        67,
+        65
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 46,
+      "page": 7,
+      "type": "upper-mordent",
+      "pitch": "F5",
+      "offset": "2",
+      "duration": "2",
+      "midi": [
+        77,
+        79,
+        77
+      ]
+    },
+    {
+      "part": 1,
+      "measure": 51,
+      "page": 7,
+      "type": "upper-mordent",
+      "pitch": "C4",
+      "offset": "0",
+      "duration": "1/2",
+      "midi": [
+        60,
+        62,
+        60
+      ]
+    },
+    {
+      "part": 0,
+      "measure": 48,
+      "page": 7,
+      "type": "upper-mordent",
+      "pitch": "G4",
+      "offset": "2",
+      "duration": "3/2",
+      "midi": [
+        67,
+        69,
+        67
+      ]
+    },
+    {
+      "part": 4,
+      "measure": 45,
+      "page": 7,
+      "type": "upper-mordent",
+      "pitch": "C6",
+      "offset": "5/2",
+      "duration": "3/2",
+      "midi": [
+        84,
+        86,
+        84
+      ]
+    }
+  ],
+  "vectorDurationRepairs": [
+    {
+      "part": 0,
+      "measure": 29,
+      "kind": "grace",
+      "pitch": "<music21.note.Note A>",
+      "oldDuration": "1"
+    },
+    {
+      "part": 0,
+      "measure": 29,
+      "kind": "grace",
+      "pitch": "<music21.note.Note C>",
+      "oldDuration": "1"
+    },
+    {
+      "part": 0,
+      "measure": 45,
+      "kind": "grace",
+      "pitch": "<music21.note.Note A>",
+      "oldDuration": "1"
+    },
+    {
+      "part": 0,
+      "measure": 45,
+      "kind": "grace",
+      "pitch": "<music21.note.Note C>",
+      "oldDuration": "1"
+    },
+    {
+      "part": 1,
+      "measure": 43,
+      "kind": "duration",
+      "old": "1",
+      "new": "3/2",
+      "x": 211.02,
+      "symbol": "0xe0a4"
+    },
+    {
+      "part": 5,
+      "measure": 24,
+      "kind": "duration",
+      "old": "1/2",
+      "new": "3/4",
+      "x": 505.37,
+      "symbol": "0xe0a4"
+    },
+    {
+      "part": 5,
+      "measure": 42,
+      "kind": "duration",
+      "old": "1/4",
+      "new": "1/8",
+      "x": 426.8,
+      "symbol": "0xe0a4"
+    },
+    {
+      "part": 0,
+      "measure": 29,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 0,
+      "measure": 45,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 0,
+      "measure": 67,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 1,
+      "measure": 21,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 2,
+      "measure": 29,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 2,
+      "measure": 45,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 2,
+      "measure": 55,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 3,
+      "measure": 26,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 3,
+      "measure": 29,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 3,
+      "measure": 55,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 3,
+      "measure": 67,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 3,
+      "measure": 68,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 4,
+      "measure": 64,
+      "kind": "complete printed voice"
+    },
+    {
+      "part": 5,
+      "measure": 4,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 28,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 28,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 39,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 42,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 42,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 43,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 43,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 44,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 44,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 45,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 45,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 61,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 61,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 62,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 62,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 63,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 63,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 5,
+      "measure": 64,
+      "kind": "verified printed piano voices"
+    },
+    {
+      "part": 6,
+      "measure": 64,
+      "kind": "verified printed piano voices"
+    }
+  ],
+  "tracks": {
+    "soprano": 247,
+    "alto": 194,
+    "tenor": 176,
+    "bass": 157,
+    "ocarina": 82,
+    "piano": 936
+  }
+}

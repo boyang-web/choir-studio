@@ -1,0 +1,5 @@
+# Optional: rebuilding scores and Windows installer assets only.
+# The browser application does not need Python.
+music21==10.5.1
+PyMuPDF==1.28.0
+Pillow==12.1.1

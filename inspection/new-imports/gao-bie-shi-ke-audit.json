@@ -1,0 +1,568 @@
+{
+  "id": "gao-bie-shi-ke",
+  "title": "告别时刻",
+  "status": "trial-imported",
+  "pages": 9,
+  "measures": 78,
+  "duration": 252.97303200000002,
+  "tracks": {
+    "soprano": 268,
+    "alto": 304,
+    "tenor": 320,
+    "bass": 307,
+    "piano": 1517
+  },
+  "warnings": [
+    {
+      "part": "soprano",
+      "measure": 7,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 8,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 9,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 10,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 11,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 46,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 47,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 51,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 75,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 76,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "soprano",
+      "measure": 77,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 1,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 2,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 3,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 4,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 5,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 6,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 7,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 8,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 9,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 10,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 11,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 21,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 46,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 47,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 71,
+      "offset": "2",
+      "duration": "3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "alto",
+      "measure": 71,
+      "offset": "2",
+      "duration": "3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "alto",
+      "measure": 74,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 75,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 76,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "alto",
+      "measure": 77,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 1,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 2,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 3,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 23,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "tenor",
+      "measure": 45,
+      "offset": "47/12",
+      "duration": "1/3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "tenor",
+      "measure": 47,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "tenor",
+      "measure": 75,
+      "offset": "15/4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "bass",
+      "measure": 1,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 2,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 3,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 13,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 21,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 44,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 47,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "bass",
+      "measure": 57,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 58,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 59,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 60,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "bass",
+      "measure": 61,
+      "reason": "MusicXML measure has no notes or rests; possible omitted notation"
+    },
+    {
+      "part": "piano",
+      "measure": 14,
+      "offset": "7/2",
+      "duration": "3/4",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 32,
+      "offset": "10/3",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 32,
+      "offset": "10/3",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 32,
+      "offset": "10/3",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 40,
+      "offset": "10/3",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 40,
+      "offset": "10/3",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 45,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 45,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 45,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 45,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 45,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 47,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 47,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 47,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 51,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 52,
+      "offset": "4",
+      "duration": "1/2",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 52,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 72,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 72,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 74,
+      "offset": "4",
+      "duration": "1/3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 74,
+      "offset": "13/3",
+      "duration": "1/3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 74,
+      "offset": "14/3",
+      "duration": "1/3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 77,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 77,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 77,
+      "offset": "7/2",
+      "duration": "1",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 78,
+      "offset": "11/3",
+      "duration": "2/3",
+      "expected": "4",
+      "reason": "recognized duration crosses bar boundary"
+    },
+    {
+      "part": "piano",
+      "measure": 78,
+      "reason": "note extends beyond score end"
+    },
+    {
+      "measure": 14,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/16"
+    },
+    {
+      "measure": 32,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/12"
+    },
+    {
+      "measure": 40,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/12"
+    },
+    {
+      "measure": 45,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 47,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 51,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 52,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 71,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/4"
+    },
+    {
+      "measure": 72,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 74,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/4"
+    },
+    {
+      "measure": 75,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/16"
+    },
+    {
+      "measure": 77,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/8"
+    },
+    {
+      "measure": 78,
+      "reason": "OMR marked abnormal rhythm",
+      "excess": "1/12"
+    }
+  ],
+  "tempoEstimated": false,
+  "limitations": [
+    "Repeats are played in printed order; repeat jumps are not expanded.",
+    "Unresolved recognition errors are retained in the audit; source PDF is unchanged."
+  ]
+}

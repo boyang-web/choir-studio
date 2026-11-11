@@ -1,0 +1,9415 @@
+[
+  {
+    "measure": 51,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": true,
+        "x": 130.351,
+        "notation": [
+          {
+            "symbol": "∑",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 52,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "2",
+        "rest": true,
+        "x": 193.615,
+        "notation": [
+          {
+            "symbol": "Ó",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": true,
+        "x": 236.482,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 263.892,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Shoosh!",
+            "x": 837.7518,
+            "y": 255.5732
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 53,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 305.325,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 969.2844,
+            "y": 263.2085
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 320.623,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1017.8505,
+            "y": 255.5732
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 337.196,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1070.4635,
+            "y": 255.5732
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 353.928,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1123.5822,
+            "y": 263.2085
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 370.183,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1175.1835,
+            "y": 255.5732
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 386.278,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1226.2787,
+            "y": 255.5732
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 402.532,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1277.8803,
+            "y": 263.2085
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 417.99,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1326.9518,
+            "y": 255.5732
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 54,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 90.83,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 288.3505,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 104.376,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 331.3514,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 116.327,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 369.2936,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 128.439,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 407.7416,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 145.49,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 461.8724,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 157.601,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 500.3203,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 170.031,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 539.78,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 181.823,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 577.2162,
+            "y": 556.853
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 55,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 202.858,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 643.9943,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 218.156,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 692.5603,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 232.977,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 739.6082,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 247.956,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 787.1626,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 265.007,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 841.293,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 280.465,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 890.3651,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 295.444,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 937.919,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 310.265,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 984.9673,
+            "y": 556.853
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 56,
+    "page": 9,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 333.849,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1059.8396,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 345.801,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1097.7816,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 357.753,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1135.7238,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 370.023,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1174.6778,
+            "y": 564.4883
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 385.64,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1224.2553,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 398.23,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1264.221,
+            "y": 556.853
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 410.978,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "shoo.",
+            "x": 1304.6923,
+            "y": 556.853
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 57,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 85.253,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 270.6441,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 100.073,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 317.6924,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 114.256,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 362.7171,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 128.757,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 408.7533,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 145.809,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 462.8841,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 160.629,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 509.9324,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 174.811,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 554.9568,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 188.994,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 599.9816,
+            "y": 230.2817
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 58,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 212.579,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 674.854,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 226.124,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 717.8549,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 238.873,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 758.3264,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 251.462,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 798.2921,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 268.513,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 852.4229,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 281.102,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 892.3885,
+            "y": 230.2817
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 293.692,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 932.3543,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 306.44,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 972.8257,
+            "y": 230.2817
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 59,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 325.085,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk.",
+            "x": 1032.0156,
+            "y": 237.917
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": true,
+        "x": 349.148,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "2",
+        "duration": "2",
+        "rest": true,
+        "x": 379.903,
+        "notation": [
+          {
+            "symbol": "Ó",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "2"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 60,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": true,
+        "x": 88.599,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 104.536,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 116.487,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doo",
+            "x": 369.7997,
+            "y": 541.106
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 128.603,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doo",
+            "x": 408.2636,
+            "y": 543.0149
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 140.55,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doo",
+            "x": 446.1895,
+            "y": 543.0146
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 152.501,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doo",
+            "x": 484.1317,
+            "y": 548.7412
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 164.613,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doo",
+            "x": 522.5797,
+            "y": 548.7412
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 61,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 190.747,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 605.5464,
+            "y": 552.5586
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 215.606,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 684.4642,
+            "y": 537.2873
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 228.355,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 724.9375,
+            "y": 552.5586
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 244.132,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 258.952,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 822.0692,
+            "y": 537.2876
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 273.607,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 868.5936,
+            "y": 544.9232
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 288.114,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 914.648,
+            "y": 537.2876
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 62,
+    "page": 10,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 309.468,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 982.4378,
+            "y": 552.5586
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 340.385,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1080.5878,
+            "y": 537.2873
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 355.681,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1129.147,
+            "y": 552.5586
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 372.733,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 388.19,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1232.3495,
+            "y": 537.2876
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 403.335,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1280.4282,
+            "y": 544.9232
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 418.627,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1328.9755,
+            "y": 537.2876
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 63,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 89.237,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 283.2914,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 114.249,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 362.6956,
+            "y": 248.8933
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 126.686,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 402.1768,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 142.621,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 156.326,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 496.273,
+            "y": 248.8931
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 169.712,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 538.7673,
+            "y": 256.5287
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 183.098,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 581.2635,
+            "y": 248.8931
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 64,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 205.567,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 652.5946,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 232.981,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 739.6236,
+            "y": 248.8933
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 246.363,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 782.1035,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 262.298,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 276.322,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 877.2117,
+            "y": 248.8931
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 289.707,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 919.706,
+            "y": 256.5287
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 303.094,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 962.2019,
+            "y": 248.8931
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 65,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 325.085,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1032.0156,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 351.06,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1114.4773,
+            "y": 248.8933
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 364.287,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1156.4654,
+            "y": 264.1646
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 379.744,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 393.449,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1249.0442,
+            "y": 248.8931
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 406.513,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1290.5181,
+            "y": 256.5287
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 419.424,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1331.5048,
+            "y": 248.8931
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 66,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 88.599,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 281.2679,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 106.131,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 336.9238,
+            "y": 552.718
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 116.168,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 368.7876,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 130.67,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 140.709,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 446.6956,
+            "y": 552.7183
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 150.745,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 478.5551,
+            "y": 560.3539
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 160.788,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 510.4381,
+            "y": 552.7183
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 67,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 178.636,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 567.0984,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 199.992,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 634.8954,
+            "y": 552.718
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 210.029,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 666.7597,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 225.965,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 235.845,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 748.7146,
+            "y": 552.7183
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 245.881,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 780.5741,
+            "y": 560.3539
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 255.765,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 811.9514,
+            "y": 552.7183
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 68,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 272.656,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 865.5762,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 288.108,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 914.6272,
+            "y": 560.3537
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 297.676,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 945.0016,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 307.237,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 975.3553,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 322.535,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doontk",
+            "x": 1023.9203,
+            "y": 560.3537
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 332.097,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1054.2749,
+            "y": 552.7183
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 69,
+    "page": 11,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": true,
+        "x": 347.714,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 358.072,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1136.7355,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 369.545,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1173.1591,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 378.629,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1201.9958,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 388.987,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doondoon.",
+            "x": 1234.8791,
+            "y": 567.9893
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 400.307,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": true,
+        "x": 411.463,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 70,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 90.034,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Tk",
+            "x": 285.821,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 111.866,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 355.1286,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 133.856,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 424.9405,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 148.518,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 471.4844,
+            "y": 259.2329
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 163.656,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 519.5444,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 178.317,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 566.0867,
+            "y": 259.2329
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 71,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 199.352,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 632.8648,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 222.459,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 706.2194,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 245.406,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 779.0668,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 259.589,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 824.0927,
+            "y": 259.2329
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 273.931,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 869.6232,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 288.114,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 914.648,
+            "y": 259.2329
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 72,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 310.902,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 986.9908,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 341.817,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1085.1343,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 373.051,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1184.2904,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 388.509,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 1233.3616,
+            "y": 259.2329
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 403.966,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1282.4333,
+            "y": 251.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 419.424,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 1331.5048,
+            "y": 259.2329
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 73,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 92.265,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 292.9035,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 118.24,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 375.3644,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 147.402,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 467.9441,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 161.744,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 513.4737,
+            "y": 567.1934
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 176.086,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk.",
+            "x": 559.0041,
+            "y": 559.5586
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 74,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 212.26,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Tk",
+            "x": 673.8422,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 235.845,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 748.7146,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 259.43,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 823.5883,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 273.931,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 869.6232,
+            "y": 567.1934
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 288.592,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 916.1657,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 303.094,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 962.2019,
+            "y": 567.1934
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 75,
+    "page": 12,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 325.085,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1032.0156,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 354.088,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1124.0883,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 377.514,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1198.4561,
+            "y": 559.5586
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 391.855,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 1243.985,
+            "y": 567.1934
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 406.357,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1290.0216,
+            "y": 559.5586
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 76,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 89.874,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 285.3152,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 116.487,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 369.7997,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 146.127,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 463.8942,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 161.426,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 512.4619,
+            "y": 255.2559
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 176.883,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 561.5337,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 192.341,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 610.6054,
+            "y": 255.2559
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 77,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 211.623,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doh",
+            "x": 671.8184,
+            "y": 255.2559
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 235.686,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 748.2098,
+            "y": 247.6203
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 249.709,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 792.7273,
+            "y": 239.9844
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 263.733,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 277.756,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 881.7647,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 291.938,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 926.7857,
+            "y": 243.8023
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 305.962,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 971.308,
+            "y": 245.7109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 78,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 331.459,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          },
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 1052.2511,
+            "y": 239.9844
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 1052.2511,
+            "y": 255.2557
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 354.559,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1125.5846,
+            "y": 247.62
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 368.589,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          },
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 1170.1245,
+            "y": 239.9844
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 1170.1245,
+            "y": 255.2557
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 384.525,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          },
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 1220.714,
+            "y": 239.9844
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 1220.714,
+            "y": 255.2557
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 398.548,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1265.2327,
+            "y": 247.6201
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 412.253,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          },
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 1308.7397,
+            "y": 239.9844
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 1308.7397,
+            "y": 255.2557
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 79,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": true,
+        "x": 91.627,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 109.953,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 122.224,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doondoon",
+            "x": 388.0118,
+            "y": 551.2861
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 134.015,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doondoon",
+            "x": 425.4444,
+            "y": 551.2861
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 147.561,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 468.4489,
+            "y": 551.2861
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 161.107,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 511.4501,
+            "y": 553.1943
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 174.652,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doondoon",
+            "x": 554.4511,
+            "y": 553.1943
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 80,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 194.572,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          },
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 617.6879,
+            "y": 547.4688
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 617.6879,
+            "y": 562.7401
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 220.7,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 700.6361,
+            "y": 555.1044
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 236.961,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          },
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 752.2559,
+            "y": 547.4688
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 752.2559,
+            "y": 562.7401
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 254.012,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          },
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 806.3864,
+            "y": 547.4688
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 806.3864,
+            "y": 562.7401
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 270.107,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 857.4819,
+            "y": 555.1035
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 286.361,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          },
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "koo",
+            "x": 909.0832,
+            "y": 547.4688
+          },
+          {
+            "head": "ordinary",
+            "syllable": "koo",
+            "x": 909.0832,
+            "y": 562.7401
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 81,
+    "page": 13,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 319.667,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1014.8149,
+            "y": 562.7383
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 348.668,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1106.883,
+            "y": 562.7383
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 363.012,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1152.4181,
+            "y": 555.1035
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 377.513,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1198.4546,
+            "y": 555.1035
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 392.015,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1244.4911,
+            "y": 562.7383
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 406.516,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1290.5276,
+            "y": 555.1035
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 82,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 85.253,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 270.6441,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 119.833,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 380.4232,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 136.885,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 434.554,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 163.178,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 518.0267,
+            "y": 242.5303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 83,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 196.643,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 624.2644,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 225.327,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 715.3254,
+            "y": 250.166
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 238.713,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 757.8197,
+            "y": 250.166
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 252.1,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 800.3159,
+            "y": 250.166
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 265.485,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "kachsh.",
+            "x": 842.8108,
+            "y": 242.5303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 84,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 307.078,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 974.8493,
+            "y": 257.8008
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 322.376,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 1023.4152,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 338.152,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1073.4987,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 353.45,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1122.0644,
+            "y": 257.8008
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 371.139,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1178.2187,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 386.915,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1228.3026,
+            "y": 242.5303
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 402.214,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1276.8683,
+            "y": 257.8008
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 416.874,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1323.4105,
+            "y": 242.5303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 85,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 85.253,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 270.6441,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 98.958,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 314.1511,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 112.344,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 356.6463,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 125.57,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 398.6355,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 141.506,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 449.2251,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 155.21,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 492.7317,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 168.596,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 535.227,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 181.823,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 577.2162,
+            "y": 547.3096
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 86,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 203.336,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 645.5121,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 217.678,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 691.0426,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 232.18,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 737.0791,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 246.522,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 782.6095,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 262.458,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 833.1988,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 278.075,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 882.7765,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 292.576,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 928.8127,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 306.918,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 974.3435,
+            "y": 547.3096
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 87,
+    "page": 14,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 329.706,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 1046.6864,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 342.614,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 1087.6638,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 355.522,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1128.6413,
+            "y": 547.3096
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 368.271,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1169.1127,
+            "y": 562.5801
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 381.497,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 394.246,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 1251.5736,
+            "y": 554.9453
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 408.905,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 1298.1123,
+            "y": 554.9453
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 422.771,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 1342.1286,
+            "y": 554.9453
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 88,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 85.253,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 270.6441,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 98.798,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 313.6451,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 112.184,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 356.1403,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 125.73,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 399.1416,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 141.665,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 449.7308,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 156.007,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 495.2612,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 169.393,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 537.7565,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 182.939,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 580.7575,
+            "y": 229.3271
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 89,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 205.727,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 653.1003,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 219.272,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 696.1016,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 232.18,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 737.0791,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 245.247,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 778.5622,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 261.183,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 829.1517,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 274.569,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 871.6469,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 287.636,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 913.1301,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 300.544,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 954.1077,
+            "y": 229.3271
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 90,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 321.898,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 1021.8975,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 335.443,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 1064.8988,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 348.829,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1107.3937,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 362.374,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1150.3946,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 378.31,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1200.9841,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 393.608,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1249.5498,
+            "y": 229.3271
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 407.154,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1292.5511,
+            "y": 244.5977
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 420.699,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 1335.5521,
+            "y": 229.3271
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 91,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 88.599,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 281.2679,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 101.507,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "Doon",
+            "x": 322.2454,
+            "y": 530.1289
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 114.256,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 362.7171,
+            "y": 530.1289
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 127.164,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 403.6946,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": true,
+        "x": 140.072,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 149.792,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 475.5314,
+            "y": 537.7646
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 162.701,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 516.5109,
+            "y": 537.7646
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 175.608,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun.",
+            "x": 557.4863,
+            "y": 537.7646
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 92,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 195.05,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doon",
+            "x": 619.2054,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 223.096,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 708.2428,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 253.534,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 804.8689,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 282.059,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 895.4238,
+            "y": 545.4004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 93,
+    "page": 15,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 318.87,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1012.2857,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 347.235,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1102.3346,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 377.194,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1197.4428,
+            "y": 545.4004
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 405.401,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1286.9863,
+            "y": 545.4004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 94,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 88.281,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 280.2562,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 119.674,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 379.9175,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 151.386,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 480.5905,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 182.779,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 580.2517,
+            "y": 260.1865
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 95,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 218.316,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 693.066,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 245.247,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 778.5622,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 273.452,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 868.1009,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 286.68,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 910.0949,
+            "y": 260.1865
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 299.906,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 952.0841,
+            "y": 244.916
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 96,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": true,
+        "x": 376.079,
+        "notation": [
+          {
+            "symbol": "∑",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 97,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": true,
+        "x": 123.021,
+        "notation": [
+          {
+            "symbol": "∑",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 98,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": true,
+        "x": 217.838,
+        "notation": [
+          {
+            "symbol": "∑",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 99,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 273.931,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doondoon",
+            "x": 869.6232,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 291.939,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "Doondoon",
+            "x": 926.7892,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 309.946,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 983.9556,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 327.953,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1041.1212,
+            "y": 564.4893
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 100,
+    "page": 16,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 353.45,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1122.0644,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 365.243,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1159.5007,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": false,
+        "x": 376.716,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1195.9251,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 388.509,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1233.3616,
+            "y": 564.4893
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "2",
+        "rest": true,
+        "x": 398.389,
+        "notation": [
+          {
+            "symbol": "Ó",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "2"
+          }
+        ],
+        "heads": []
+      }
+    ]
+  },
+  {
+    "measure": 101,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 93.38,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 296.4448,
+            "y": 264.4814
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 120.311,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 381.941,
+            "y": 279.7529
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 134.813,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 427.9774,
+            "y": 272.1162
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 160.788,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 510.4393,
+            "y": 279.7518
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 172.899,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 548.8864,
+            "y": 279.7529
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 102,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": true,
+        "x": 192.659,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 206.523,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 655.6299,
+            "y": 272.1162
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 220.384,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 234.251,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 743.6555,
+            "y": 279.7529
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 248.753,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 789.6921,
+            "y": 272.1162
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 276.962,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 879.2449,
+            "y": 264.4806
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 290.823,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 923.2483,
+            "y": 279.7529
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 103,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 313.611,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 995.5911,
+            "y": 279.7529
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 344.526,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1093.7346,
+            "y": 279.7529
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 375.92,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1193.3955,
+            "y": 272.1162
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 403.96,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1282.4141,
+            "y": 279.7518
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 419.424,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1331.5048,
+            "y": 279.7529
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 104,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": true,
+        "x": 90.671,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 105.969,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 336.4105,
+            "y": 558.126
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 121.42,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 136.885,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 434.554,
+            "y": 565.7617
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 152.501,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 484.1317,
+            "y": 558.126
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 180.069,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "kadoon",
+            "x": 571.6468,
+            "y": 550.4904
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 193.456,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "kadoon",
+            "x": 614.1467,
+            "y": 565.7617
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 105,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 215.447,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 683.96,
+            "y": 565.7617
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 237.12,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 752.7616,
+            "y": 565.7617
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 258.792,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 821.5631,
+            "y": 558.126
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 285.564,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 906.5517,
+            "y": 565.7616
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 298.95,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 949.0489,
+            "y": 565.7617
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 106,
+    "page": 17,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": true,
+        "x": 320.942,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 334.806,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1062.8749,
+            "y": 558.126
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 348.834,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 362.693,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1151.4067,
+            "y": 565.7617
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 377.194,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1197.4428,
+            "y": 558.126
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 405.557,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "ka",
+            "x": 1287.4818,
+            "y": 550.4904
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 419.424,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1331.5048,
+            "y": 565.7617
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 107,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 90.512,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 287.3387,
+            "y": 250.8018
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 118.877,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 377.3879,
+            "y": 250.8018
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 148.358,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 470.9784,
+            "y": 243.166
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 177.685,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 564.0779,
+            "y": 250.8016
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 191.225,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 607.0641,
+            "y": 250.8018
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 108,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": true,
+        "x": 214.969,
+        "notation": [
+          {
+            "symbol": "Œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 240.785,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 255.127,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 809.9276,
+            "y": 239.3486
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 272.178,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 864.0572,
+            "y": 239.3486
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 286.521,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 909.5889,
+            "y": 239.3486
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 300.863,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 955.1194,
+            "y": 241.2578
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 315.205,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 1000.6499,
+            "y": 241.2578
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 109,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 341.658,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 1084.6285,
+            "y": 235.5313
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 369.545,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 1173.16,
+            "y": 235.5313
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 385.481,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 1223.7496,
+            "y": 235.5313
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 413.05,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 1311.2692,
+            "y": 235.5313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 110,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 89.874,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 285.3152,
+            "y": 546.6729
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/4",
+        "rest": false,
+        "x": 115.055,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 2,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/4"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dundundun",
+            "x": 365.2534,
+            "y": 550.4907
+          }
+        ]
+      },
+      {
+        "offset": "7/4",
+        "duration": "1/4",
+        "rest": false,
+        "x": 123.817,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 2,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/4"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dundundun",
+            "x": 393.0708,
+            "y": 550.4902
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 132.423,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dundundun",
+            "x": 420.3889,
+            "y": 552.3994
+          }
+        ]
+      },
+      {
+        "offset": "5/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 146.605,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dundundun",
+            "x": 465.4137,
+            "y": 552.3994
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 160.788,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dundundun",
+            "x": 510.4381,
+            "y": 558.127
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 174.971,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "dun",
+            "x": 555.4628,
+            "y": 558.127
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 111,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 195.687,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "dun",
+            "x": 621.2292,
+            "y": 546.6729
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 232.02,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 736.573,
+            "y": 546.6729
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 249.072,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 790.7038,
+            "y": 546.6729
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 283.015,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 898.459,
+            "y": 546.6729
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 112,
+    "page": 18,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 327.953,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1041.1212,
+            "y": 561.9443
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 342.136,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1086.146,
+            "y": 554.3086
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 356.159,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 370.342,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1175.6895,
+            "y": 561.9443
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 384.366,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1220.2083,
+            "y": 554.3086
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 407.159,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1292.5693,
+            "y": 561.9442
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 421.177,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1337.0698,
+            "y": 561.9443
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 113,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 93.061,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 295.433,
+            "y": 241.415
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 107.244,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 340.4578,
+            "y": 233.7803
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 121.427,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 135.45,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 430.001,
+            "y": 241.415
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 149.633,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 475.0257,
+            "y": 233.7803
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 172.427,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 547.3868,
+            "y": 241.4159
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 186.604,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 592.393,
+            "y": 241.415
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 114,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "3/2",
+        "rest": false,
+        "x": 210.826,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 1,
+            "duration": "3/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "doon",
+            "x": 669.2892,
+            "y": 226.1445
+          }
+        ]
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 252.1,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 800.3159,
+            "y": 226.1445
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 269.151,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 854.4464,
+            "y": 226.1445
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 300.703,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "",
+            "x": 954.6133,
+            "y": 226.1445
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 115,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1/2",
+        "rest": false,
+        "x": 332.415,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1055.2867,
+            "y": 241.438
+          }
+        ]
+      },
+      {
+        "offset": "1/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 345.961,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1098.2876,
+            "y": 233.7803
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1/2",
+        "rest": true,
+        "x": 359.506,
+        "notation": [
+          {
+            "symbol": "‰",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": []
+      },
+      {
+        "offset": "3/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 372.892,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 1,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1183.7838,
+            "y": 241.415
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 386.437,
+        "notation": [
+          {
+            "symbol": "¿",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "cross",
+            "syllable": "tk",
+            "x": 1226.7847,
+            "y": 233.7803
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1/2",
+        "rest": false,
+        "x": 408.268,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1296.0881,
+            "y": 241.4159
+          }
+        ]
+      },
+      {
+        "offset": "7/2",
+        "duration": "1/2",
+        "rest": false,
+        "x": 421.814,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 1,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1/2"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 1339.0933,
+            "y": 241.415
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 116,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "1",
+        "rest": false,
+        "x": 88.599,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 281.2679,
+            "y": 536.9688
+          }
+        ]
+      },
+      {
+        "offset": "1",
+        "duration": "1",
+        "rest": false,
+        "x": 110.272,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 350.0695,
+            "y": 536.9688
+          }
+        ]
+      },
+      {
+        "offset": "2",
+        "duration": "1",
+        "rest": false,
+        "x": 131.945,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 418.8714,
+            "y": 536.9688
+          }
+        ]
+      },
+      {
+        "offset": "3",
+        "duration": "1",
+        "rest": false,
+        "x": 153.617,
+        "notation": [
+          {
+            "symbol": "œ",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "1"
+          }
+        ],
+        "heads": [
+          {
+            "head": "ordinary",
+            "syllable": "doon",
+            "x": 487.673,
+            "y": 536.9688
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 117,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": false,
+        "x": 187.241,
+        "notation": [
+          {
+            "symbol": "O",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": [
+          {
+            "head": "wind",
+            "syllable": "shoo!",
+            "x": 594.4168,
+            "y": 536.9688
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 118,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": false,
+        "x": 296.719,
+        "notation": [
+          {
+            "symbol": "O",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": [
+          {
+            "head": "wind",
+            "syllable": "",
+            "x": 941.966,
+            "y": 525.5285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "measure": 119,
+    "page": 19,
+    "expected": "4",
+    "total": "4",
+    "events": [
+      {
+        "offset": "0",
+        "duration": "4",
+        "rest": false,
+        "x": 380.7,
+        "notation": [
+          {
+            "symbol": "O",
+            "beams": 0,
+            "flags": 0,
+            "dots": 0,
+            "duration": "4"
+          }
+        ],
+        "heads": [
+          {
+            "head": "wind",
+            "syllable": "",
+            "x": 1208.5723,
+            "y": 536.9819
+          }
+        ]
+      }
+    ]
+  }
+]
