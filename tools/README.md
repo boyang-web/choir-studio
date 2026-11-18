@@ -59,3 +59,9 @@ tools/audiveris/Audiveris/
 Android 构建可通过 `JAVA_HOME`、`ANDROID_HOME` 指定本机安装；也支持本地 `tools/java21/`、`tools/android-sdk/` 和 `tools/gradle-8.11.1/`。Windows 构建会按需下载 WebView2 SDK 到 `tools/webview2/`。
 
 下载的 SDK、Python 库、浏览器测试资料、日志和临时文件只保留在本机。Git 只跟踪本目录的 Python 源码、歌曲定义和依赖说明。
+
+## 回声
+
+`python tools/audit_hui_sheng.py` 核对原 PDF 的全部符头与音高；
+`python tools/build_hui_sheng.py` 从 `data/verified/hui-sheng.json` 重建八声部曲库。
+该流程固定输入 PDF 散列，不作为任意 PDF 的通用识别器。

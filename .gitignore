@@ -65,3 +65,8 @@ Desktop.ini
 /inspection/LogicalPart.java
 /inspection/PartwiseBuilder.java
 /inspection/sheet1.xml
+
+# Local release signing and macOS bundles
+.release-keys/
+*.dmg
+*.app/

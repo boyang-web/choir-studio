@@ -32,7 +32,7 @@ try{
   await page.getByText('重复练习此段',{exact:true}).click();
   assert.equal(await page.evaluate(()=>Tone.getTransport().loop),true);
   if(viewport.width<1100)await page.locator('#mixer-close').click();
-  assert.equal(await page.locator('.page-wrapper').count(),9);assert.equal(await page.locator('.reading-row').count(),0);
+  assert.equal(await page.locator('.page-wrapper').count(),10);assert.equal(await page.locator('.reading-row').count(),0);
   await page.locator('#zoom-in').click();assert.equal(await page.locator('#zoom-label').textContent(),'125%');
   await page.locator('#zoom-out').click();await page.locator('#zoom-out').click();assert.equal(await page.locator('#zoom-label').textContent(),'75%');
   await page.locator('#fit-score').click();assert.equal(await page.locator('#zoom-label').textContent(),'100%');

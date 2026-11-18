@@ -16,3 +16,7 @@ JavaScript 开发依赖由 `choir-studio/package-lock.json` 记录；Capacitor�
 Python 和识谱工具包括 music21、PyMuPDF、Pillow、Audiveris；工具链不随 Git 仓库提交。Windows 构建按需下载微软 WebView2 SDK，其许可文件会随桌面资源打包。
 
 原始乐谱、MIDI、识谱和修订材料保存在 `data/`，应用使用的谱面位于 `choir-studio/public/songs/`。这些音乐材料及音色各有其权利归属，仓库未为它们另行授予许可；原创代码的许可证由维护者另行确定。
+
+## macOS 宿主
+
+Electron（MIT）及其 Chromium／Node.js 运行内核随 macOS 应用分发，相关 LICENSE 和第三方声明由 Electron 构建工具随安装包保留。构建工具 electron-builder 采用 MIT 许可。

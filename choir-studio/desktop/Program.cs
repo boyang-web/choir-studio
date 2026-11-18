@@ -12,7 +12,7 @@ using Microsoft.Web.WebView2.WinForms;
 
 [assembly: AssemblyTitle("和声练习室")]
 [assembly: AssemblyProduct("和声练习室")]
-[assembly: AssemblyVersion("1.8.0.0")]
+[assembly: AssemblyVersion("1.9.0.0")]
 static class Program {
  internal static string DataDirectory;
  internal static string AssetsDirectory;
@@ -26,7 +26,7 @@ static class Program {
    Directory.CreateDirectory(DataDirectory);
    using(var payload=Assembly.GetExecutingAssembly().GetManifestResourceStream("ChoirPayload")){
     string digest;using(var sha=System.Security.Cryptography.SHA256.Create())digest=BitConverter.ToString(sha.ComputeHash(payload)).Replace("-","").Substring(0,16);
-    payload.Position=0;AssetsDirectory=Path.Combine(DataDirectory,"versions","1.8.0-"+digest);string marker=Path.Combine(AssetsDirectory,"ready");
+    payload.Position=0;AssetsDirectory=Path.Combine(DataDirectory,"versions","1.9.0-"+digest);string marker=Path.Combine(AssetsDirectory,"ready");
     if(!File.Exists(marker)){
      Directory.CreateDirectory(AssetsDirectory);string prefix=Path.GetFullPath(AssetsDirectory)+Path.DirectorySeparatorChar;
      using(var archive=new ZipArchive(payload,ZipArchiveMode.Read,true))foreach(var entry in archive.Entries){

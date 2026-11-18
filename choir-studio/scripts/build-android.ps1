@@ -19,8 +19,6 @@ $sdkDir = [regex]::Replace($sdkDir, '[^\x00-\x7F]', { param($m) '\u' + ([int][ch
 [IO.File]::WriteAllText((Join-Path $projectDir 'android/local.properties'), "sdk.dir=$sdkDir`n", [Text.Encoding]::ASCII)
 Push-Location $projectDir
 try {
-    & node 'scripts/prepare-local-updates.mjs'
-    if ($LASTEXITCODE -ne 0) { throw 'Local update key preparation failed.' }
     & node 'node_modules/@capacitor/cli/bin/capacitor' sync android
     if ($LASTEXITCODE -ne 0) { throw 'Capacitor sync failed.' }
     $localGradle = Join-Path $toolDir 'gradle-8.11.1/bin/gradle.bat'

@@ -1,0 +1,48 @@
+{
+  "name": "hesheng-choir-macos",
+  "version": "1.9.0",
+  "description": "Offline choir practice for macOS",
+  "author": "boyang-web",
+  "private": true,
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "build": "bash ../scripts/build-macos.sh"
+  },
+  "devDependencies": {
+    "electron": "45.3.4",
+    "electron-builder": "26.18.0"
+  },
+  "build": {
+    "appId": "cn.hesheng.choirstudio",
+    "productName": "和声练习室",
+    "artifactName": "ChoirStudio-${version}-macOS-${arch}.${ext}",
+    "directories": {
+      "output": "../releases/macos"
+    },
+    "files": [
+      "main.cjs",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../public",
+        "to": "public",
+        "filter": [
+          "**/*",
+          "!designs/**/*"
+        ]
+      }
+    ],
+    "mac": {
+      "category": "public.app-category.music",
+      "target": "dmg",
+      "identity": "-",
+      "hardenedRuntime": false,
+      "icon": "icon.icns"
+    },
+    "dmg": {
+      "sign": false
+    }
+  }
+}

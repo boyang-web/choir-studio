@@ -3,10 +3,8 @@ import {clamp,measureAt,loopRange,cursorX,formatTime} from './score-utils.js';
 import {defaultSound} from './instruments.js';
 import {installScoreZoom} from './score-zoom.js';
 import {readPerformance} from './midi-performance.js';
-import {installLocalUpdates} from './local-updates.js';
 const $=id=>document.getElementById(id);
 const engine=new ChoirAudio();
-installLocalUpdates({document,beforeSwitch:()=>{engine.pause();updatePlay();}});
 const colors=[['#e4eee3','#72906b'],['#e8e7f0','#9185a7'],['#e5edf2','#7393a5'],['#f0e8dc','#a89370'],['#e4ece9','#75978a'],['#eee8df','#a19079']];
 let catalog=[],song=null,settings={},zoom=100,activeMeasure=-1,activeFrame=null,loading=0,starting=false,toastTimer;
 let prefs={};try{prefs=JSON.parse(localStorage.getItem('choir-prefs')||'{}');}catch{}
@@ -16,6 +14,7 @@ function toast(message){$('toast').textContent=message;$('toast').classList.add(
 function escape(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function updatePlay(){const on=engine.playing;$('play').setAttribute('aria-label',on?'暂停':'播放');$('play').innerHTML=on?'<svg viewBox="0 0 24 24"><path d="M7 5h4v14H7zm6 0h4v14h-4z"/></svg>':'<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';}
 function makeLibrary(){
+ document.querySelector('.library-heading .count').textContent=String(catalog.length).padStart(2,'0');
  $('library').innerHTML=catalog.map(s=>`<button class="song-card ${s.id==='let-it-go'?'ice':''} ${song?.id===s.id?'active':''}" data-song="${s.id}" aria-pressed="${song?.id===s.id}"><span class="cover">${s.id==='let-it-go'?'❆':escape(s.title.slice(0,1))}</span><span><strong>${escape(s.title)}</strong><small>${escape(s.tag)} · ${s.pages} 页原谱</small></span>${song?.id===s.id?'<span class="playing-mark">≋</span>':''}</button>`).join('');
  for(const b of $('library').querySelectorAll('button'))b.onclick=()=>{loadSong(b.dataset.song);closeMenu();};
 }
@@ -30,7 +29,7 @@ async function loadSong(id){
   song=data;settings={};
   const stored=prefs[id]?.voices||{};
   const migrate=prefs[id]?.performanceVersion!==2;
-  for(const p of song.parts)settings[p.id]={enabled:migrate&&song.id==='let-it-go'?p.id!=='piano':stored[p.id]?.enabled??(p.id!=='percussion'),volume:clamp(stored[p.id]?.volume??(p.id==='piano'?.45:.85),0,1),sound:defaultSound(p.id),branches:Object.fromEntries((p.branches||[]).map(b=>[b.id,stored[p.id]?.branches?.[b.id]!==false]))};
+  for(const p of song.parts)settings[p.id]={enabled:migrate&&song.id==='let-it-go'?p.id!=='piano':stored[p.id]?.enabled??(p.id!=='percussion'),volume:clamp(stored[p.id]?.volume??(p.id==='piano'?.45:.85),0,1),sound:p.sound||defaultSound(p.id),branches:Object.fromEntries((p.branches||[]).map(b=>[b.id,stored[p.id]?.branches?.[b.id]!==false]))};
   engine.load(song,settings);engine.setVolume(Number($('master-volume').value));engine.metro=$('metronome').checked;
   prefs.lastSong=id;save();
   $('song-title').textContent=song.title;$('song-subtitle').textContent=song.subtitle;

@@ -22,12 +22,3 @@ main{height:100%;min-height:0;display:flex;flex-direction:column;padding-bottom:
  :root{--player-height:85px}.topbar{height:38px}.song-heading{padding:5px 2px;min-height:35px}.song-heading h1{font-size:20px;margin:0}.song-heading p,.song-heading .eyebrow{display:none}.reading-settings{min-height:35px;padding-bottom:4px}.mixer-toggle{min-height:30px!important}.score-toolbar{height:41px}.score-status{min-height:24px;padding-top:4px}.score-footer{display:none}.player{display:flex;gap:14px;align-items:center;padding:7px 15px}.now-playing{min-width:150px}.transport{display:flex;width:50%;max-width:500px}.transport-buttons{height:38px;margin:0}.play-button{height:34px;width:34px}.player-settings{min-width:90px}.player-settings .speed-label{flex-direction:row}.seek-row input{height:5px}.sidebar-bottom{display:none}
 }
 @media(prefers-reduced-motion:reduce){.sidebar,.mixer{transition:none}}
-/* Native offline update controls share the existing control panel. */
-.local-updates[hidden]{display:none!important}
-.local-updates input{display:block;width:100%;box-sizing:border-box;margin:8px 0;padding:10px;border:1px solid #526171;border-radius:8px;background:#17212d;color:#edf4ff;font:inherit;min-width:0}
-.update-actions{display:flex;gap:8px;flex-wrap:wrap}
-.local-updates button[hidden]{display:none!important}
-.local-updates button:disabled{opacity:.55;cursor:wait}
-#update-status{overflow-wrap:anywhere}
-#offline-share[hidden]{display:none!important}
-#share-addresses p{font-size:14px;overflow-wrap:anywhere;user-select:all;color:#b6d8ff}

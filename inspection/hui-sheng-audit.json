@@ -1,0 +1,56 @@
+{
+  "id": "hui-sheng",
+  "sourceSha256": "fad490a2200cb083a89f2a32c13e040147ead4f4f46133cf95f4e48d7eca0786",
+  "pages": 3,
+  "measures": 38,
+  "parts": {
+    "soprano-1": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 46
+    },
+    "alto-1": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 46
+    },
+    "tenor-1": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 46
+    },
+    "bass-1": {
+      "measures": 38,
+      "notes": 115,
+      "rests": 46
+    },
+    "soprano-2": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 47
+    },
+    "alto-2": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 47
+    },
+    "tenor-2": {
+      "measures": 38,
+      "notes": 116,
+      "rests": 47
+    },
+    "bass-2": {
+      "measures": 38,
+      "notes": 115,
+      "rests": 47
+    }
+  },
+  "duration": 76.0,
+  "rhythmWarnings": [],
+  "verification": "All 304 voice-measures conserve 4 beats; ties and independent rhythms explicitly source-compared.",
+  "limitations": [
+    "120 BPM is a user-approved rehearsal tempo, not a printed metronome mark.",
+    "Source comparison and automated validation do not replace musician listening acceptance.",
+    "Explicit dynamics are retained; hairpins are a rehearsal approximation."
+  ]
+}

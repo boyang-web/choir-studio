@@ -1,6 +1,6 @@
 {
   "name": "choir-studio",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Offline choir practice with original scores, MIDI playback and independent voice mixing.",
   "private": true,
   "type": "module",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test --test-isolation=none --test-concurrency=1 tests/*.test.mjs",
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
     "test:browser": "node tests/browser.mjs",
     "build:android": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-android.ps1",
     "build:windows": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-windows.ps1",
