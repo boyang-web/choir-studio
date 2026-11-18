@@ -55,7 +55,7 @@ jobs:
         with:
           distribution: temurin
           java-version: 21
-      - uses: android-actions/setup-android@v3
+      - uses: android-actions/setup-android@v4
       - run: npm --prefix choir-studio ci --no-audit --no-fund
       - working-directory: choir-studio
         run: npx cap sync android
